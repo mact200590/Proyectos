@@ -16,4 +16,3 @@ This decentralized, effective, and scalable economy:
 Has the best and most successful onboarding experience for new participants, with the highest retention rate in the industry.
 Allows everyone to find the capital they need to work on the best projects which (1) optimally drive protocol growth and (2) are most fulfilling for its participants.
 Has resilient safety mechanisms in place that prevent protocol failure while leaving ample space for rapid innovation and experimentation.
-
