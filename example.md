@@ -18,4 +18,4 @@ Allows everyone to find the capital they need to work on the best projects which
 Has resilient safety mechanisms in place that prevent protocol failure while leaving ample space for rapid innovation and experimentation.
 
 ![The San Juan Mountains are beautiful!](https://ownsnap.com/wp-content/uploads/2021/10/dao1-1170x658-1.jpg "San Juan Mountains")
-![parar](https://gateway-proxy-bee-9-0.gateway.ethswarm.org/bzz/1fe299c01206d1d422cf79a60ea49b8a77b04382f8d25745842eb2a199eb4389")
+![parar](https://ownsnap.com/wp-content/uploads/2021/10/dao1-1170x658-1.jpg "San Juan Mountains")
